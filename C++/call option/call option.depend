@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607946862 source:c:\users\suraj industries\documents\programming\c++\call option\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607320006 source:c:\users\suraj industries\documents\c++\tutorial 2\main.cpp
+	<iostream>
+
+1607673365 source:c:\users\suraj industries\documents\programming\c++\tutorial 2\main.cpp
+	<iostream>
+	<cmath>
+
